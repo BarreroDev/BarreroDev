@@ -8,24 +8,56 @@
 
 <h4>💻 Frontend Development</h4>
 
-<span >
-  <img src="tecnologias/html.png" alt="python" width="50px" height="50px">
-  <img src="tecnologias/css.png" alt="python" width="50px" height="50px">
-  <img src="tecnologias/javascript.png" alt="python" width="50px" height="50px">
-   <img src="tecnologias/" alt="python" width="50px" height="60px">
-</span>
-
+<p align="left">
+  <img src="tecnologias/html.png" alt="HTML5" width="50" height="50">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="tecnologias/css.png" alt="CSS3" width="50" height="50">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="tecnologias/javascript.png" alt="JavaScript" width="50" height="50">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="tecnologias/type.png" alt="TypeScript" width="50" height="60">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="tecnologias/angular.png" alt="Angular" width="50" height="60">
+</p>
 <br>
 <br>
+
+
+<h4>⚙️ Backend Development</h4>
+
+<p align="left">
+  <img src="tecnologias/Python.png" alt="PYTHON" width="50" height="50">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="tecnologias/java.png" alt="JAVA" width="50" height="50">&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<br>
 <br>
 
-<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development:
 
-<span >
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-</span>
+<h4>📱 Mobile Development</h4>
+<p align="left">
+  <img src="tecnologias/kotlin.jpg" alt="KOTLIN" width="60" height="60">&nbsp;&nbsp;&nbsp;&nbsp;  
+</p>
+<br>
+<br>
+
+<h4>🗄️ Data Storage (Bases de Datos)</h4>
+
+<p align="left">
+  <img src="tecnologias/mysql.png" alt="MYSQL" width="80" height="80">&nbsp;&nbsp;
+  <img src="tecnologias/mongodb.png" alt="MONGO" width="80" height="80">&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<br>
+<br>
+
+<h4>🧰 DevOps, Tools & OS (Herramientas y Entornos)</h4>
+<p align="left">
+  <img src="tecnologias/git.png" alt="GIT" width="50" height="50">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="tecnologias/dockers.png" alt="DOCKER" width="50" height="50">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="tecnologias/linux.png" alt="LINUX" width="50" height="50">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="tecnologias/eclipse.png" alt="ECLIPSE" width="50" height="60">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="tecnologias/androidStudio.png" alt="ANDROID" width="50" height="60">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="tecnologias/Visual_Studio_Code_1.35_icon.svg.png" alt="VS" width="50" height="60">
+</p>
+<br>
+<br>
+
+
+
+
 
