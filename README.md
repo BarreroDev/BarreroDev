@@ -41,6 +41,7 @@
 <p align="left">
   <img src="tecnologias/mysql.png" alt="MYSQL" width="80" height="80">&nbsp;&nbsp;
   <img src="tecnologias/mongodb.png" alt="MONGO" width="80" height="80">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="tecnologias/firebase.png" alt="FIREBASE" width="80" height="80">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br>
 <br>
